@@ -190,7 +190,7 @@ ul li:hover{
     cursor: pointer;
 }
 
-ul li a{
+ul a{
     text-decoration: none;
     color: black;
 }
