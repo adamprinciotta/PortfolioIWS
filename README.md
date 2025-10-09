@@ -1,0 +1,1 @@
+This is a personal portfolio website structured with an about me page, a projects page, and a certicicates page to show off my qualifications. It can be updated by adjusting the HTML and CSS files directly, and may be done as I complete more projects and certifications
